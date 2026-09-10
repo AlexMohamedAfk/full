@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "libraries": [
+    {
+      "file": "libAlex.so",
+      "mirrors": [
+        "https://raw.githubusercontent.com/AlexMohamedAfk/full/main/libAlex.so",
+        "https://cdn.jsdelivr.net/gh/AlexMohamedAfk/full/main/libAlex.so",
+        "https://raw.fastgit.org/AlexMohamedAfk/full/main/libAlex.so",
+        "https://ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/full/main/libAlex.so",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/full/main/libAlex.so",
+        "https://raw.gitmirror.com/AlexMohamedAfk/full/main/libAlex.so"
+      ]
+    }
+  ]
+}
